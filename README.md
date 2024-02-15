@@ -1,4 +1,4 @@
-##Cannabis Recreational Store Growth Analysis in Canada
+# Cannabis Recreational Store Growth Analysis in Canada
 Overview
 This project involves an analysis of the recreational cannabis market in Canada. The analysis covers aspects such as sales, production, inventory, and trends in different types of cannabis products.
 
