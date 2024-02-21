@@ -13,14 +13,22 @@
 - Topics 1, 2, and 3 use the same dataset, which consists of 327 observations and is obtained from the Government of Canada. Observation collected from late 2019 to 2023.
 - The Topic 4 dataset consists of a merged database of several Canadian Cannabis Survey responses from 2017 to 2022. Due to the significant amount of information in these reports, Table 1 from each report was extracted and merged into a single data table for the analysis of cannabis use by gender. 
     - Limitations:  
+
             - Population was rounded to the nearest 1000, so numbers may be slightly off.
+
             - As survey responses were voluntary, not all users/non-users are being accurately represented by the sample.
+
             - 2023 survey data not available yet.
+
 - The Topic 5 dataset consists of the approximately 6000+ survey responses collected in the “Alcohol and cannabis use during the COVID-19 pandemic” survey by BMC Public Health. The dataset has been filtered for only the cannabis-use related columns. Please note that this dataset contains qualitative responses regarding changes in cannabis use, which is subjective and may not accurately portrait just how cannabis use has increased or decreased during the pandemic.
     - Limitations:  
+    
             - Survey responses composed of qualitative data that was subjective, which may not be entirely accurate and consistent amongst respondents.
+
             - More responses were received from younger age groups, which is not representative of the entire population.
+
             - Other factors such as daily habit changes and stress factors were not considered in the data collection.
+
 
 
 ## __Repo Contents__
