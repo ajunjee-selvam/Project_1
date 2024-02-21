@@ -1,4 +1,4 @@
-# Project 1 - An Analyss on the Canadian Cannabis Industry 
+# Project 1 - An Analysis on the Canadian Cannabis Industry 
 ## __Overview__
 5 topics for this Canadian Cannabis Industry EDA project were identified and included the analysis of market trends, product trends, and changes in cannabis use amongst different demographics during different time periods. 
 
