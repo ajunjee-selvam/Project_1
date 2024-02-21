@@ -1,5 +1,10 @@
 # Project_1 - An Analyss on the Canadian Cannabis Industry 
-Topic 4: How Cannabis Use has Changed across gender over the years, and Topic 5: How Cannabis Use Changes Varied Across Different Demographics 
+__Topics Covered:__
+Topic 1:
+Topic 2:
+Topic 3:
+Topic 4: How Cannabis Use has Changed across gender over the years
+Topic 5: How Cannabis Use Changes Varied Across Different Demographics 
 
 __Overview__
 These 2 topics for this Canadian Cannabs Industry EDA project involves analyzng changes in cannabis use amongst different demographics during different time periods. The first analysis is on gender and cannabis use over the years, and the second analysis looks at how cannabis use has changed during the Covid Pandemic Wave 1 amongst 3 demographics: age group, ethnicity, and income level.
@@ -42,6 +47,7 @@ __Code Contents:__
 - *Analysis and Conclusions*
     - Observations of any trends in the visuals were recorded and analyzed to understand the state of the current cannabis market and to forecast how these trends will change in the future. 
 
+__Presentation Slides:__ Link to our Google Slides can be found here: https://docs.google.com/presentation/d/1hPuJYQMzc5No5I1QY2sbJITpJs06i0Ucr8U8OEDyDyk/edit?usp=sharing
 
 
 
