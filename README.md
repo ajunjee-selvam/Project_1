@@ -2,7 +2,7 @@
 ## __Overview__
 5 topics for this Canadian Cannabs Industry EDA project were identified and involved analyzng market trends, product trends, and changes in cannabis use amongst different demographics during different time periods. 
 
-##__Topics Covered__
+## __Topics Covered__
 - Topic 1: Cannabis Recreational Store Growth Analysis in Canada
 - Topic 2: Retail vs Medical Stores Growth
 - Topic 3: Cannabis Market Share by Product Type
