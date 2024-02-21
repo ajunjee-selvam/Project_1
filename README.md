@@ -10,6 +10,7 @@
 - Topic 5: Topic 5: Cannabis Use Change during First Wave of the Covid Pandemic Analyzed by Age Group, Ethnicity, and Income Level (May 2020 to March 2021)
 
 ## __Data__
+- Topics 1, 2, and 3 use the same dataset, which consists of 327 observations and is obtained from the Government of Canada. Observation collected from late 2019 to 2023.
 - The Topic 4 dataset consists of a merged database of several Canadian Cannabis Survey responses from 2017 to 2022. Due to the significant amount of information in these reports, Table 1 from each report was extracted and merged into a single data table for the analysis of cannabis use by gender. 
 - The Topic 5 dataset consists of the approximately 6000+ survey responses collected in the “Alcohol and cannabis use during the COVID-19 pandemic” survey by BMC Public Health. The dataset has been filtered for only the cannabis-use related columns. Please note that this dataset contains qualitative responses regarding changes in cannabis use, which is subjective and may not accurately portrait just how cannabis use has increased or decreased during the pandemic.
 
